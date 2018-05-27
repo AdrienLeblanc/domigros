@@ -1,0 +1,2 @@
+Code;Type;Contenu
+0047;okCode;"Erreur panier"

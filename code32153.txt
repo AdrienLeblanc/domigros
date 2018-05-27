@@ -1,0 +1,13 @@
+Code;Type;Contenu
+0040;okCode;"Erreur panier"
+1020;okCode;"COUPON: 3 Accompagnements (Hors Salades,Box et Glaces) 12€ au total"
+1081;okCode;"COUPON: Offre découverte 1€ de remise sur le Cinnastix"
+1087;okCode;"COUPON: 2 Accompagnements (Hors Salades,Box et Glaces) 8€ au total"
+1228;okCode;"COUPON: 1 Cheesy Crunch Ail & Fines herbes à 4,90€"
+1532;okCode;"COUPON: Offre découverte 1€ de remise sur le Cinnastix"
+1598;okCode;"COUPON: 1 Choco Bread à 2,90€"
+1603;okCode;"COUPON: 1 Pizza Bon Plan Medium 5.99€"
+1609;okCode;"COUPON: 2 Pizzas Medium + 2 Accompagnements = 24€"
+1719;okCode;"COUPON: 2 Pizzas Medium = 12.00€ sur présentation du billet Ligue 2 le soir ou le lendemain du match."
+2064;okCode;"COUPON: Offre découverte 1€ de remise sur le Cinnastix"
+2276;okCode;"COUPON: 3 Accompagnements (Hors Salades,Box et Glaces) 14€ au total"
